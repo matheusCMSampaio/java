@@ -6,7 +6,7 @@ public class MediaScanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int array[] = new int[4];
+		double array[] = new double[4];
 		Scanner key;
 		double media = 0;
 		try {

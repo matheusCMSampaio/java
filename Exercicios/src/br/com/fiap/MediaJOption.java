@@ -4,8 +4,8 @@ import javax.swing.JOptionPane;
 
 public class MediaJOption {
 	public static void main(String[] args) {
-		int array[] = new int[4];
-		int media = 0;
+		double array[] = new double[4];
+		double media = 0;
 		try {
 			for (int i = 0; i < array.length; i++) {
 				array[i] = Integer.parseInt(JOptionPane.showInputDialog("digite o "+(i+1)+" numero: "));
