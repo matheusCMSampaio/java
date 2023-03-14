@@ -8,7 +8,7 @@ public class MediaScanner {
 		// TODO Auto-generated method stub
 		int array[] = new int[4];
 		Scanner key;
-		int media = 0;
+		double media = 0;
 		try {
 			key = new Scanner(System.in);
 			for(int i = 0; i < array.length; i++) {
